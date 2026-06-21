@@ -67,16 +67,6 @@ I specialise in translating raw, noisy data into boardroom-ready insights — fr
 
 ---
 
-## 📈 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uroojey&show_icons=true&theme=default&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=uroojey&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uroojey&layout=compact&hide_border=true)
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/uroojey)
