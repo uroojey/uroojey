@@ -1,6 +1,6 @@
 # Hi there 👋 I am Urooj Fatima
 
-### Data Scientist & Analyst · Lucknow, India
+### Data Analyst · Lucknow, India
 
 I turn messy datasets into clean decisions — through SQL architecture, Power BI intelligence, and predictive models that actually ship.
 
@@ -18,7 +18,7 @@ I specialise in translating raw, noisy data into boardroom-ready insights — fr
 - 🏆 Organised the **AI Prompt War** at Binary Battalion Club, Integral University
 - 📫 Reach me at: **uroojfatima4111@gmail.com**
 - 🌐 Portfolio: [portfolio-uroojey.vercel.app](https://portfolio-uroojey.vercel.app)
-- 💼 Open to **Data Analyst / Data Scientist / MIS Analyst** roles
+- 💼 Open to **Data Analyst / Business Analyst / MIS Analyst** roles
 
 ---
 
